@@ -1,0 +1,21 @@
+{
+  "name": "snw-cordova-imagepicker",
+  "version": "1.0.0",
+  "description": "snw-cordova-imagePicker =======================",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/refurbify/snw-cordova-imagePicker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/refurbify/snw-cordova-imagePicker/issues"
+  },
+  "homepage": "https://github.com/refurbify/snw-cordova-imagePicker#readme"
+}
