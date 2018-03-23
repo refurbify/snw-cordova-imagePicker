@@ -1,7 +1,7 @@
 {
-  "name": "snw-cordova-imagepicker",
+  "name": "vrm-cordova-imagepicker",
   "version": "1.0.0",
-  "description": "snw-cordova-imagePicker =======================",
+  "description": "vrm-cordova-imagepicker =======================",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/refurbify/snw-cordova-imagePicker.git"
+    "url": "git+https://github.com/refurbify/vrm-cordova-imagepicker.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/refurbify/snw-cordova-imagePicker/issues"
+    "url": "https://github.com/refurbify/vrm-cordova-imagepicker/issues"
   },
-  "homepage": "https://github.com/refurbify/snw-cordova-imagePicker#readme"
+  "homepage": "https://github.com/refurbify/vrm-cordova-imagepicker#readme"
 }
