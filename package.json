@@ -1,5 +1,5 @@
 {
-  "name": "th.co.snowwhite.imagepicker",
+  "name": "vrm-cordova-imagepicker",
   "version": "1.0.0",
   "description": "vrm-cordova-imagepicker =======================",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "cordova": {
-    "id": "th.co.snowwhite.imagepicker",
+    "id": "vrm-cordova-imagepicker",
     "platforms": [
       "android",
       "ios"
