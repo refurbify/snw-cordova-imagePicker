@@ -8,6 +8,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "cordova": {
+    "id": "th.co.snowwhite.imagepicker",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/refurbify/vrm-cordova-imagepicker.git"
